@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mghnm\\source\\repos\\Visual Script Forms\\Visual Script Forms\\Visual Script Forms.csproj",
+      "projectUniqueName": "C:\\Users\\mghnm\\source\\repos\\Visual Script Forms\\Visual-Script-Form\\Visual Script Forms\\Visual Script Forms.csproj",
       "projectName": "Visual Script Forms",
-      "projectPath": "C:\\Users\\mghnm\\source\\repos\\Visual Script Forms\\Visual Script Forms\\Visual Script Forms.csproj",
+      "projectPath": "C:\\Users\\mghnm\\source\\repos\\Visual Script Forms\\Visual-Script-Form\\Visual Script Forms\\Visual Script Forms.csproj",
       "packagesPath": "C:\\Users\\mghnm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mghnm\\source\\repos\\Visual Script Forms\\Visual Script Forms\\obj\\",
+      "outputPath": "C:\\Users\\mghnm\\source\\repos\\Visual Script Forms\\Visual-Script-Form\\Visual Script Forms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mghnm\\AppData\\Roaming\\NuGet\\NuGet.Config",

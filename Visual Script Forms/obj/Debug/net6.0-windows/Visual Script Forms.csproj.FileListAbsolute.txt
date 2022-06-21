@@ -1,0 +1,17 @@
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\bin\Debug\net6.0-windows\Visual Script Forms.exe
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\bin\Debug\net6.0-windows\Visual Script Forms.deps.json
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\bin\Debug\net6.0-windows\Visual Script Forms.runtimeconfig.json
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\bin\Debug\net6.0-windows\Visual Script Forms.dll
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\bin\Debug\net6.0-windows\Visual Script Forms.pdb
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.csproj.AssemblyReference.cache
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.csproj.GenerateResource.cache
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.AssemblyInfoInputs.cache
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.AssemblyInfo.cs
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.csproj.CoreCompileInputs.cache
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.dll
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\refint\Visual Script Forms.dll
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.pdb
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual Script Forms.genruntimeconfig.cache
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\ref\Visual Script Forms.dll
+C:\Users\mghnm\source\repos\Visual Script Forms\Visual-Script-Form\Visual Script Forms\obj\Debug\net6.0-windows\Visual_Script_Forms.FormFileSelector.resources
